@@ -1,0 +1,13 @@
+E:\C#\Alura\ProjetoAlura\bin\Debug\ProjetoAlura.exe.config
+E:\C#\Alura\ProjetoAlura\bin\Debug\ProjetoAlura.exe
+E:\C#\Alura\ProjetoAlura\bin\Debug\ProjetoAlura.pdb
+E:\C#\Alura\ProjetoAlura\obj\Debug\ProjetoAlura.csproj.AssemblyReference.cache
+E:\C#\Alura\ProjetoAlura\obj\Debug\ProjetoAlura.Properties.Resources.resources
+E:\C#\Alura\ProjetoAlura\obj\Debug\ProjetoAlura.csproj.GenerateResource.cache
+E:\C#\Alura\ProjetoAlura\obj\Debug\ProjetoAlura.csproj.CoreCompileInputs.cache
+E:\C#\Alura\ProjetoAlura\obj\Debug\ProjetoAlura.exe
+E:\C#\Alura\ProjetoAlura\obj\Debug\ProjetoAlura.pdb
+E:\C#\Alura\ProjetoAlura\obj\Debug\ProjetoAlura.frm_Demonstracao.resources
+E:\C#\Alura\ProjetoAlura\obj\Debug\ProjetoAlura.frm_Principal.resources
+E:\C#\Alura\ProjetoAlura\obj\Debug\ProjetoAlura.frm_ValidaSenha.resources
+E:\C#\Alura\ProjetoAlura\obj\Debug\ProjetoAlura.frm_Mascara.resources
